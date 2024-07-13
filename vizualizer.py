@@ -6,12 +6,12 @@ import requests
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 from dotenv import load_dotenv
-
+from matplotlib.colors import ListedColormap
 
 load_dotenv()
 API_TOKEN = os.getenv("API_TOKEN")
-API_URL = "https://games-test.datsteam.dev/"
-url = "https://games-test.datsteam.dev/play/zombidef/units"
+API_URL = "https://games.datsteam.dev/"
+url = "https://games.datsteam.dev/play/zombidef/units"
 
 
 # Функция для получения данных с URL
@@ -28,6 +28,8 @@ def update():
     zombies = data.get('zombies', [])
     enemy_blocks = data.get('enemyBlocks', [])
 
+    # head = [base for base in bases if "isHeadz" in base.keys()][0]
+
     x_coords_base = [base['x'] for base in bases]
     y_coords_base = [base['y'] for base in bases]
     health_base = [base['health'] for base in bases]
@@ -41,22 +43,16 @@ def update():
         y_coords_enemy = [block['y'] for block in enemy_blocks]
         health_enemy = [block['health'] for block in enemy_blocks]
 
+    fig = plt.figure(figsize=(13, 13))
     plt.cla()
 
     plt.scatter(x_coords_base, y_coords_base, c=health_base, cmap='coolwarm', s=100, label='Базы')
+    # plt.scatter(head["x"], head["y"], c='black', s=100)
     plt.scatter(x_coords_zombie, y_coords_zombie, c='green', s=50, label='Зомби')
     if enemy_blocks:
-        plt.scatter(x_coords_enemy, y_coords_enemy, c='red', s=75, label='Вражеские блоки')
+        plt.scatter(x_coords_enemy, y_coords_enemy, c=health_enemy, s=75, label='Вражеские блоки',
+                    cmap=ListedColormap(["darkorange", "gold", "lawngreen", "lightseagreen"]))
 
-    for i, base in enumerate(bases):
-        plt.text(base['x'] + 0.3, base['y'] + 0.3, f"HP: {base['health']}", fontsize=9)
-
-    for i, zombie in enumerate(zombies):
-        plt.text(zombie['x'] + 0.3, zombie['y'] + 0.3, f"HP: {zombie['health']}", fontsize=9)
-
-    if enemy_blocks:
-        for i, block in enumerate(enemy_blocks):
-            plt.text(block['x'] + 0.3, block['y'] + 0.3, f"HP: {block['health']}", fontsize=9)
 
     plt.title("Базы, Зомби и Вражеские блоки")
     plt.xlabel("Координата X")

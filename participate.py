@@ -10,7 +10,7 @@ from urllib3 import request
 # Загрузка токена из .env файла
 load_dotenv()
 API_TOKEN = os.getenv("API_TOKEN")
-API_URL = "https://games-test.datsteam.dev/"
+API_URL = "https://games.datsteam.dev/"
 
 
 while True:
