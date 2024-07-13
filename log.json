@@ -1,0 +1,2606 @@
+{
+	"realmName": "test-day2-6",
+	"player": {
+		"gold": 10,
+		"points": 0,
+		"name": "Ля гушата",
+		"zombieKills": 157,
+		"enemyBlockKills": 5,
+		"gameEndedAt": null
+	},
+	"base": [
+		{
+			"id": "0190ab45-d987-766d-b984-35f811998b41",
+			"x": 198,
+			"y": 533,
+			"health": 70,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 193,
+				"y": 533
+			}
+		},
+		{
+			"id": "0190ab45-e927-75d3-89b7-edad62bc15e3",
+			"x": 202,
+			"y": 528,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-3d47-7331-bcd5-bc16169e751a",
+			"x": 205,
+			"y": 531,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab44-fec7-71dd-9805-7ade6bf2f7b3",
+			"x": 201,
+			"y": 536,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-54b6-7cee-885f-01ff55dfdcdc",
+			"x": 199,
+			"y": 535,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-1806-7c66-b397-b55026e10754",
+			"x": 197,
+			"y": 538,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 193,
+				"y": 539
+			}
+		},
+		{
+			"id": "0190ab46-46e8-7470-893c-84e1f51869c9",
+			"x": 200,
+			"y": 525,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab44-b0a6-78c7-980c-a066c52e7ba6",
+			"x": 202,
+			"y": 535,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-d987-768b-9c4c-58e96fb2c014",
+			"x": 205,
+			"y": 537,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-3d47-733b-b555-afe89593d1b0",
+			"x": 203,
+			"y": 531,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-4eb8-700f-b582-e59a5739f716",
+			"x": 206,
+			"y": 527,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-1fd8-7598-b208-fd01639001b3",
+			"x": 204,
+			"y": 527,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-0867-7a26-966c-d2040f44160d",
+			"x": 206,
+			"y": 538,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 205,
+				"y": 539
+			}
+		},
+		{
+			"id": "0190ab45-0697-72a1-a707-7d52a68523b1",
+			"x": 200,
+			"y": 536,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-0098-7955-9732-5f4b026c21de",
+			"x": 202,
+			"y": 527,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-0098-795a-8e58-17975c5aa6bc",
+			"x": 201,
+			"y": 527,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-d1b6-7d90-9c7d-a36edcfc112e",
+			"x": 199,
+			"y": 533,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-f0f6-7eb8-b9b6-e9481e3fc976",
+			"x": 201,
+			"y": 529,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-27a7-7afe-84aa-a5d10234a52c",
+			"x": 202,
+			"y": 525,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab44-6286-7a37-961f-5c8da7101bf6",
+			"x": 202,
+			"y": 531,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab44-6a56-7841-ae5d-2d0884da4713",
+			"x": 201,
+			"y": 534,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-5687-77c5-8f45-9bafeb568aa3",
+			"x": 198,
+			"y": 527,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-1038-7399-ae3c-c6d23de17738",
+			"x": 207,
+			"y": 538,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-aaa7-70b4-9468-87a09aa42884",
+			"x": 207,
+			"y": 532,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-9b07-7129-8ffe-c1e83b7f64f8",
+			"x": 204,
+			"y": 538,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab44-e756-795f-a71a-004d9df10d91",
+			"x": 205,
+			"y": 532,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-c216-7cc2-8f7d-c6ad668cfd0c",
+			"x": 199,
+			"y": 536,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-a2d7-7477-aa5c-eb079223f849",
+			"x": 205,
+			"y": 536,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab44-535b-7b7e-b0bb-77271a8a79da",
+			"x": 203,
+			"y": 533,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-4eb7-7f27-ba59-5d22430f949a",
+			"x": 205,
+			"y": 525,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-0867-7a20-bc4d-386073eebae6",
+			"x": 198,
+			"y": 534,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 193,
+				"y": 534
+			}
+		},
+		{
+			"id": "0190ab46-0867-7a2d-998b-a229729863b9",
+			"x": 206,
+			"y": 536,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-5687-77a0-801a-158252a6bf6d",
+			"x": 207,
+			"y": 528,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-e927-75c9-95d4-e08dbfd9c7bc",
+			"x": 198,
+			"y": 536,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-25d6-7c5e-9a0a-5831043ac512",
+			"x": 200,
+			"y": 535,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-4eb8-7007-8c89-d10fa0d387a2",
+			"x": 205,
+			"y": 524,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-46e8-7477-bf69-208065543e50",
+			"x": 204,
+			"y": 524,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-5687-77ca-b31e-b64015280702",
+			"x": 207,
+			"y": 527,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-e158-7761-ac1c-fd4dc6f064a8",
+			"x": 206,
+			"y": 537,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab44-df87-76b8-912c-05260fd004cf",
+			"x": 200,
+			"y": 534,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-1806-7c55-b208-ff4071213bc2",
+			"x": 199,
+			"y": 530,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-aaa7-70c2-ad40-0d8d774239ee",
+			"x": 207,
+			"y": 531,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-0867-7a45-8c49-0165127b6548",
+			"x": 198,
+			"y": 532,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 193,
+				"y": 532
+			}
+		},
+		{
+			"id": "0190ab45-0697-72bc-8509-937ab4117ffd",
+			"x": 201,
+			"y": 537,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-3f18-749e-9079-9dcb23b5ac8a",
+			"x": 203,
+			"y": 524,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab44-6a56-783b-a58c-66969c686de8",
+			"x": 203,
+			"y": 535,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-ba46-7626-98b7-d53cb864439e",
+			"x": 208,
+			"y": 531,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 209,
+				"y": 530
+			}
+		},
+		{
+			"id": "0190ab45-0697-72b6-a3f6-13a8659bb847",
+			"x": 203,
+			"y": 537,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-f0f6-7eac-bdbf-608567ced747",
+			"x": 197,
+			"y": 536,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 193,
+				"y": 533
+			}
+		},
+		{
+			"id": "0190ab46-4eb7-7f37-81c8-d098d15c4357",
+			"x": 204,
+			"y": 523,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-2da6-7592-9045-4bfcc39ccc40",
+			"x": 199,
+			"y": 534,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-d1b6-7d8b-a654-9e0c7ed5f583",
+			"x": 205,
+			"y": 535,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-3f18-74a4-8760-71082cbcb085",
+			"x": 201,
+			"y": 524,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-46e8-7491-910e-80a80592bebd",
+			"x": 205,
+			"y": 527,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-8396-7527-a140-f0e8866a13c8",
+			"x": 205,
+			"y": 529,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-3f18-74a9-bfdc-e73bd861f941",
+			"x": 204,
+			"y": 525,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-0098-7950-952c-6b05d72d382a",
+			"x": 200,
+			"y": 529,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-0867-7a4b-9372-0c32824fcf44",
+			"x": 198,
+			"y": 537,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab44-535b-7b64-9174-2920591d46aa",
+			"x": 202,
+			"y": 532,
+			"health": 300,
+			"attack": 40,
+			"range": 8,
+			"isHead": true,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-1038-738d-abd6-36d3d6bf21c0",
+			"x": 197,
+			"y": 533,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 192,
+				"y": 533
+			}
+		},
+		{
+			"id": "0190ab46-3f18-74ba-b451-4b1fe2ecca7a",
+			"x": 198,
+			"y": 538,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab44-6286-7a31-8a65-0d3d8999d385",
+			"x": 204,
+			"y": 533,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab44-6286-7a20-a253-86a379a61b4b",
+			"x": 201,
+			"y": 532,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-0867-7a33-99cb-94dc6ec4dc47",
+			"x": 203,
+			"y": 526,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-46e8-745f-b39b-e386f4ca9522",
+			"x": 205,
+			"y": 526,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-25d6-7c6f-89ed-68b48f01c8a1",
+			"x": 205,
+			"y": 533,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-3748-7770-bc79-1e40f20e9f16",
+			"x": 203,
+			"y": 525,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-4ce7-7536-80a0-d86952c2392c",
+			"x": 204,
+			"y": 534,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-aaa7-70bb-aa09-020702e07c4b",
+			"x": 205,
+			"y": 530,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-0098-7940-b640-dbe00615e752",
+			"x": 199,
+			"y": 531,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-f8c7-7189-ae6d-538696bbab14",
+			"x": 200,
+			"y": 530,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-0867-7a40-ac36-b969f58b927e",
+			"x": 202,
+			"y": 526,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-8b67-7748-9c62-fbbdd1e1a75a",
+			"x": 203,
+			"y": 529,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-0697-72a8-bfe3-e17731166fbf",
+			"x": 202,
+			"y": 537,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-46e8-7467-a93f-e7f423d85868",
+			"x": 202,
+			"y": 523,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-e158-7769-9a2c-7f96e15769d1",
+			"x": 199,
+			"y": 532,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab44-b876-73f4-815c-085701000e87",
+			"x": 202,
+			"y": 536,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-ba46-763c-8885-ce1957cf68de",
+			"x": 198,
+			"y": 535,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-1806-7c5b-ab7c-cf71667f3640",
+			"x": 199,
+			"y": 528,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-1806-7c4a-bd65-f4655ce32903",
+			"x": 197,
+			"y": 531,
+			"health": 20,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 196,
+				"y": 530
+			}
+		},
+		{
+			"id": "0190ab45-0e67-71a7-a2bc-00d715e13a6e",
+			"x": 202,
+			"y": 538,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-6456-7db3-a687-886114678beb",
+			"x": 204,
+			"y": 530,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-4eb7-7f40-b6ff-0d6ae729e738",
+			"x": 206,
+			"y": 526,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-f8c7-7191-a82e-1f33402bd9f9",
+			"x": 201,
+			"y": 531,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-b277-7291-8c7a-1caf454d645f",
+			"x": 207,
+			"y": 530,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 211,
+				"y": 529
+			}
+		},
+		{
+			"id": "0190ab45-d987-7682-a264-c04f29e2772e",
+			"x": 199,
+			"y": 537,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-0098-7945-8dc5-70960942b3bf",
+			"x": 200,
+			"y": 528,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab44-6286-7a26-ba90-4a843470d9e2",
+			"x": 202,
+			"y": 534,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-3748-7765-9276-eb894ca02e1f",
+			"x": 199,
+			"y": 529,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab44-7227-7338-9a11-597519162b12",
+			"x": 201,
+			"y": 535,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-5687-77ac-8203-54313971fa07",
+			"x": 206,
+			"y": 524,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-d987-76a2-8c80-ea1ad8e301ac",
+			"x": 204,
+			"y": 528,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab44-6286-7a1a-b296-b787413241fc",
+			"x": 203,
+			"y": 534,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-8b67-774e-af3f-b4e50335fe44",
+			"x": 200,
+			"y": 537,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-1038-737f-b9af-3f641021cc72",
+			"x": 207,
+			"y": 537,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-5c86-7902-acee-766045a19683",
+			"x": 204,
+			"y": 531,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-8b67-7754-becd-7e20272edeff",
+			"x": 201,
+			"y": 530,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab44-535b-7b6d-9e66-19765309201e",
+			"x": 203,
+			"y": 532,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-1806-7c44-b9a8-66b6d4071a3a",
+			"x": 208,
+			"y": 537,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 211,
+				"y": 538
+			}
+		},
+		{
+			"id": "0190ab46-46e8-747f-8b26-4ec5f01e8337",
+			"x": 199,
+			"y": 527,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-f8c7-7180-8306-00b8cb90ab87",
+			"x": 197,
+			"y": 537,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 193,
+				"y": 539
+			}
+		},
+		{
+			"id": "0190ab46-1806-7c61-8606-d540183c62a0",
+			"x": 199,
+			"y": 538,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab44-6286-7a3d-b3de-e5fee67c3f9c",
+			"x": 201,
+			"y": 533,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-3748-775a-b8b4-3624eac3f311",
+			"x": 198,
+			"y": 529,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 196,
+				"y": 528
+			}
+		},
+		{
+			"id": "0190ab46-1038-7377-8b19-8e73c5f2fab7",
+			"x": 197,
+			"y": 532,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 193,
+				"y": 533
+			}
+		},
+		{
+			"id": "0190ab45-ba46-762c-9a44-b115f04b5b0d",
+			"x": 206,
+			"y": 529,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-9b07-7122-87ba-d31b207de07c",
+			"x": 204,
+			"y": 536,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-f0f6-7eb3-8c51-5e40e03c1b0d",
+			"x": 197,
+			"y": 535,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 193,
+				"y": 533
+			}
+		},
+		{
+			"id": "0190ab46-3f18-74b4-b584-ef879679f346",
+			"x": 202,
+			"y": 524,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-c216-7cba-8b37-7659d3eff679",
+			"x": 207,
+			"y": 529,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 211,
+				"y": 529
+			}
+		},
+		{
+			"id": "0190ab45-3d47-7340-9f94-9320b868aadd",
+			"x": 206,
+			"y": 534,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-73f7-73e1-b2d3-1d15f3c885b8",
+			"x": 200,
+			"y": 531,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-d987-7698-8b3b-2f8b15efbc13",
+			"x": 206,
+			"y": 528,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab44-8997-7000-8f2d-6b0a947bf380",
+			"x": 204,
+			"y": 535,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-6c26-7e35-90c2-8c9f1d39d840",
+			"x": 204,
+			"y": 529,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-0098-794a-944f-e89fb66b5a69",
+			"x": 203,
+			"y": 527,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-a2d7-747d-8e97-66f4ab96824d",
+			"x": 205,
+			"y": 538,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 205,
+				"y": 539
+			}
+		},
+		{
+			"id": "0190ab45-2da6-7598-84c2-97f821e30787",
+			"x": 205,
+			"y": 534,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-1fd8-7593-8943-b6a52779efcb",
+			"x": 198,
+			"y": 531,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 193,
+				"y": 531
+			}
+		},
+		{
+			"id": "0190ab45-6456-7dac-b09e-f67a56d930b5",
+			"x": 206,
+			"y": 533,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-ba46-7632-9dca-ff3f0c067eaa",
+			"x": 208,
+			"y": 530,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 209,
+				"y": 530
+			}
+		},
+		{
+			"id": "0190ab44-6286-7a2c-bb4c-cea61cd64bc7",
+			"x": 204,
+			"y": 532,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-d987-7677-a597-4a1a5bfa4033",
+			"x": 208,
+			"y": 533,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 213,
+				"y": 533
+			}
+		},
+		{
+			"id": "0190ab45-f8c7-719a-a909-4494bc4c3176",
+			"x": 203,
+			"y": 528,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-1e06-79d3-ae71-f56b89babb78",
+			"x": 203,
+			"y": 538,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab44-535b-7b74-ab09-6012d478b535",
+			"x": 202,
+			"y": 533,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-25d6-7c67-b394-06ffc39cc878",
+			"x": 200,
+			"y": 533,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-27a7-7af8-b001-65f3b41181ce",
+			"x": 205,
+			"y": 528,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-5687-77b3-b82f-1eb5c336526d",
+			"x": 206,
+			"y": 525,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-73f7-73eb-9846-dec550350dc6",
+			"x": 202,
+			"y": 529,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-3748-7779-b471-9ea83c98622f",
+			"x": 201,
+			"y": 525,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-73f7-73f2-9702-2e51b4bf9e6f",
+			"x": 207,
+			"y": 533,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-46e8-7488-b598-75c337b97aea",
+			"x": 198,
+			"y": 528,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 196,
+				"y": 528
+			}
+		},
+		{
+			"id": "0190ab45-ba46-7637-b975-47f77998d735",
+			"x": 206,
+			"y": 530,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-1038-7385-9faf-0c171f10584e",
+			"x": 200,
+			"y": 526,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-3f18-74ae-8bf3-403a5bd7f2d1",
+			"x": 204,
+			"y": 526,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-2f78-7cde-863d-25e8aab402ea",
+			"x": 198,
+			"y": 530,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 196,
+				"y": 530
+			}
+		},
+		{
+			"id": "0190ab45-5c86-790c-bf6a-270e07f21e91",
+			"x": 206,
+			"y": 535,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-4eb7-7f1b-836d-e031d685dab6",
+			"x": 199,
+			"y": 526,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-4516-7ed1-a18f-1a26eb5ea43a",
+			"x": 203,
+			"y": 530,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab44-fec7-71d5-967d-969829a955dc",
+			"x": 203,
+			"y": 536,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-5687-77b8-bb91-976101cae166",
+			"x": 205,
+			"y": 523,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-6c26-7e3e-98dc-c5f4fcdc89b9",
+			"x": 202,
+			"y": 530,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-6c26-7e46-8264-be551c7ccc9a",
+			"x": 200,
+			"y": 532,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-1e06-79d8-b1d2-17f2dba058d6",
+			"x": 201,
+			"y": 538,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-3748-7783-a72c-94fe96a75d58",
+			"x": 200,
+			"y": 527,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-8396-7522-ad26-839bc83eb9cb",
+			"x": 207,
+			"y": 534,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-25d6-7c55-b037-790e5c4b264b",
+			"x": 200,
+			"y": 538,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-1038-7393-a61a-d4d37d96cef4",
+			"x": 207,
+			"y": 535,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-54b6-7ce9-9c12-9daf0ae59088",
+			"x": 206,
+			"y": 532,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-a2d7-7482-8ff7-cdcd547c384c",
+			"x": 206,
+			"y": 531,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-4eb7-7f2f-989e-57d483858ac0",
+			"x": 203,
+			"y": 523,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-0867-7a39-b46d-044c1307fc2d",
+			"x": 201,
+			"y": 526,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-c216-7cc8-8c85-d975fb249542",
+			"x": 208,
+			"y": 529,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 213,
+				"y": 529
+			}
+		},
+		{
+			"id": "0190ab45-f8c7-7176-85af-1f661a3abeef",
+			"x": 197,
+			"y": 534,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": {
+				"x": 193,
+				"y": 533
+			}
+		},
+		{
+			"id": "0190ab45-b277-729a-8c77-1e5f962feb1c",
+			"x": 208,
+			"y": 532,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-f8c7-71a2-92d7-4c0259120d6e",
+			"x": 201,
+			"y": 528,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-5687-77bf-931b-29094c51ce4b",
+			"x": 203,
+			"y": 522,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab45-0e67-71a0-8f50-10bdb90c8817",
+			"x": 204,
+			"y": 537,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-1038-739f-a0d3-c5699b7ad740",
+			"x": 207,
+			"y": 536,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		},
+		{
+			"id": "0190ab46-5687-77a6-ba96-97bc87e2ba22",
+			"x": 207,
+			"y": 526,
+			"health": 100,
+			"attack": 10,
+			"range": 5,
+			"lastAttack": null
+		}
+	],
+	"zombies": [
+		{
+			"x": 211,
+			"y": 537,
+			"id": "cab2c16f-8b12-4514-8838-bfca1ec33958",
+			"type": "juggernaut",
+			"health": 15,
+			"attack": 999999,
+			"speed": 1,
+			"waitTurns": 2,
+			"direction": "right"
+		},
+		{
+			"x": 210,
+			"y": 514,
+			"id": "10d20d97-820e-44d0-b6fa-5e070d73e32d",
+			"type": "juggernaut",
+			"health": 13,
+			"attack": 999999,
+			"speed": 1,
+			"waitTurns": 1,
+			"direction": "up"
+		},
+		{
+			"x": 218,
+			"y": 537,
+			"id": "07c433aa-6ffd-45d8-b777-5112fe8e0aa9",
+			"type": "fast",
+			"health": 15,
+			"attack": 31,
+			"speed": 2,
+			"waitTurns": 1,
+			"direction": "left"
+		},
+		{
+			"x": 217,
+			"y": 535,
+			"id": "062f042d-796a-4a6f-b963-bd0b3726aed2",
+			"type": "liner",
+			"health": 15,
+			"attack": 31,
+			"speed": 1,
+			"waitTurns": 1,
+			"direction": "left"
+		},
+		{
+			"x": 218,
+			"y": 538,
+			"id": "ef96b018-7396-49a0-bcf8-43d46431115f",
+			"type": "normal",
+			"health": 15,
+			"attack": 31,
+			"speed": 1,
+			"waitTurns": 1,
+			"direction": "up"
+		},
+		{
+			"x": 216,
+			"y": 536,
+			"id": "964903c6-7e02-4be8-92ff-9571ed4259a5",
+			"type": "chaos_knight",
+			"health": 13,
+			"attack": 25,
+			"speed": 3,
+			"waitTurns": 1,
+			"direction": "up"
+		},
+		{
+			"x": 214,
+			"y": 525,
+			"id": "5c8051ae-8f74-4838-9b4d-7ea7765b029b",
+			"type": "fast",
+			"health": 15,
+			"attack": 31,
+			"speed": 2,
+			"waitTurns": 1,
+			"direction": "left"
+		},
+		{
+			"x": 215,
+			"y": 535,
+			"id": "2cc408fa-808c-46b9-b5d4-a8c8df4347f5",
+			"type": "juggernaut",
+			"health": 15,
+			"attack": 999999,
+			"speed": 1,
+			"waitTurns": 2,
+			"direction": "up"
+		},
+		{
+			"x": 196,
+			"y": 530,
+			"id": "ecbb63cb-3ee6-4031-980e-5ce0f992eb46",
+			"type": "fast",
+			"health": 15,
+			"attack": 31,
+			"speed": 2,
+			"waitTurns": 1,
+			"direction": "right"
+		},
+		{
+			"x": 213,
+			"y": 532,
+			"id": "817b4cdb-c137-4b1a-bed0-7d3bdc9073bb",
+			"type": "normal",
+			"health": 5,
+			"attack": 31,
+			"speed": 1,
+			"waitTurns": 1,
+			"direction": "up"
+		},
+		{
+			"x": 200,
+			"y": 539,
+			"id": "fd21df08-543f-419f-825a-4dcf49b66ef2",
+			"type": "juggernaut",
+			"health": 15,
+			"attack": 999999,
+			"speed": 1,
+			"waitTurns": 2,
+			"direction": "up"
+		},
+		{
+			"x": 210,
+			"y": 518,
+			"id": "a6443d87-27d5-4a9b-93cc-d7218cfc226b",
+			"type": "fast",
+			"health": 15,
+			"attack": 31,
+			"speed": 2,
+			"waitTurns": 1,
+			"direction": "up"
+		},
+		{
+			"x": 197,
+			"y": 539,
+			"id": "739dafca-5eff-46d9-aef8-557b40e99075",
+			"type": "liner",
+			"health": 15,
+			"attack": 31,
+			"speed": 1,
+			"waitTurns": 1,
+			"direction": "up"
+		},
+		{
+			"x": 215,
+			"y": 515,
+			"id": "5dce4b6f-0baf-454b-afaa-08cb650c5c70",
+			"type": "liner",
+			"health": 11,
+			"attack": 19,
+			"speed": 1,
+			"waitTurns": 1,
+			"direction": "up"
+		},
+		{
+			"x": 195,
+			"y": 514,
+			"id": "4537dd8b-d179-44db-b446-fc7ddd341d9c",
+			"type": "juggernaut",
+			"health": 15,
+			"attack": 999999,
+			"speed": 1,
+			"waitTurns": 1,
+			"direction": "down"
+		},
+		{
+			"x": 216,
+			"y": 529,
+			"id": "57e30e90-f9d3-4071-9714-7b104ec4ac82",
+			"type": "juggernaut",
+			"health": 13,
+			"attack": 999999,
+			"speed": 1,
+			"waitTurns": 2,
+			"direction": "up"
+		},
+		{
+			"x": 196,
+			"y": 527,
+			"id": "e90aeaf3-9608-4e12-9d0e-afdfdcd0dca6",
+			"type": "chaos_knight",
+			"health": 15,
+			"attack": 31,
+			"speed": 3,
+			"waitTurns": 1,
+			"direction": "right"
+		},
+		{
+			"x": 217,
+			"y": 526,
+			"id": "6ce26688-9ba1-4934-b3e1-ed035e320868",
+			"type": "bomber",
+			"health": 15,
+			"attack": 31,
+			"speed": 1,
+			"waitTurns": 1,
+			"direction": "left"
+		},
+		{
+			"x": 218,
+			"y": 535,
+			"id": "f0cb22ef-6b1c-42b3-b05a-b48a8bc8b553",
+			"type": "bomber",
+			"health": 15,
+			"attack": 31,
+			"speed": 1,
+			"waitTurns": 1,
+			"direction": "left"
+		},
+		{
+			"x": 215,
+			"y": 530,
+			"id": "fc423e6c-cc9f-4f10-93f6-915a886fb47e",
+			"type": "normal",
+			"health": 15,
+			"attack": 31,
+			"speed": 1,
+			"waitTurns": 1,
+			"direction": "up"
+		},
+		{
+			"x": 215,
+			"y": 530,
+			"id": "b0dd2814-e2c5-4a45-99b9-0ee5a84bb70b",
+			"type": "juggernaut",
+			"health": 13,
+			"attack": 999999,
+			"speed": 1,
+			"waitTurns": 2,
+			"direction": "up"
+		},
+		{
+			"x": 216,
+			"y": 528,
+			"id": "8277042a-6693-4a28-80b3-27badbc7f0e6",
+			"type": "normal",
+			"health": 13,
+			"attack": 25,
+			"speed": 1,
+			"waitTurns": 1,
+			"direction": "up"
+		},
+		{
+			"x": 212,
+			"y": 529,
+			"id": "7b537579-d081-4237-87ff-163a86f31e7a",
+			"type": "normal",
+			"health": 3,
+			"attack": 25,
+			"speed": 1,
+			"waitTurns": 1,
+			"direction": "left"
+		},
+		{
+			"x": 216,
+			"y": 539,
+			"id": "490d4a39-d843-40c3-b4f0-fa8de7745c10",
+			"type": "liner",
+			"health": 15,
+			"attack": 31,
+			"speed": 1,
+			"waitTurns": 1,
+			"direction": "left"
+		},
+		{
+			"x": 214,
+			"y": 531,
+			"id": "b14859b2-f533-421d-b6bf-aa8ff201abae",
+			"type": "juggernaut",
+			"health": 13,
+			"attack": 999999,
+			"speed": 1,
+			"waitTurns": 2,
+			"direction": "left"
+		},
+		{
+			"x": 215,
+			"y": 537,
+			"id": "c201bb34-7105-403c-bcd5-9e18c31ab509",
+			"type": "juggernaut",
+			"health": 15,
+			"attack": 999999,
+			"speed": 1,
+			"waitTurns": 1,
+			"direction": "up"
+		},
+		{
+			"x": 198,
+			"y": 539,
+			"id": "c565e818-e1c1-4fca-ae9b-2695d80292d3",
+			"type": "liner",
+			"health": 15,
+			"attack": 31,
+			"speed": 1,
+			"waitTurns": 1,
+			"direction": "up"
+		},
+		{
+			"x": 208,
+			"y": 539,
+			"id": "192becc3-2b1c-42c7-9dde-5c06f528a70d",
+			"type": "bomber",
+			"health": 15,
+			"attack": 31,
+			"speed": 1,
+			"waitTurns": 1,
+			"direction": "up"
+		},
+		{
+			"x": 216,
+			"y": 512,
+			"id": "efd7f9b1-eb7f-4245-bac4-ac0fd40bcd2e",
+			"type": "bomber",
+			"health": 11,
+			"attack": 19,
+			"speed": 1,
+			"waitTurns": 1,
+			"direction": "up"
+		},
+		{
+			"x": 216,
+			"y": 525,
+			"id": "3bf2d30d-d329-4e93-8929-3a9d3a595ab2",
+			"type": "bomber",
+			"health": 13,
+			"attack": 25,
+			"speed": 1,
+			"waitTurns": 1,
+			"direction": "up"
+		},
+		{
+			"x": 212,
+			"y": 535,
+			"id": "ba277f3f-5a34-4f23-9e52-b8dc4970cef3",
+			"type": "liner",
+			"health": 13,
+			"attack": 25,
+			"speed": 1,
+			"waitTurns": 1,
+			"direction": "left"
+		},
+		{
+			"x": 218,
+			"y": 534,
+			"id": "fcfa727e-06cb-4185-bdfa-31bcb1987714",
+			"type": "bomber",
+			"health": 15,
+			"attack": 31,
+			"speed": 1,
+			"waitTurns": 1,
+			"direction": "up"
+		},
+		{
+			"x": 213,
+			"y": 538,
+			"id": "408e74e1-a6a6-4fc4-b038-c669cc8399ac",
+			"type": "normal",
+			"health": 13,
+			"attack": 25,
+			"speed": 1,
+			"waitTurns": 1,
+			"direction": "left"
+		},
+		{
+			"x": 210,
+			"y": 515,
+			"id": "56633963-7db4-4376-aa81-010f4e1cf445",
+			"type": "fast",
+			"health": 15,
+			"attack": 31,
+			"speed": 2,
+			"waitTurns": 1,
+			"direction": "down"
+		},
+		{
+			"x": 202,
+			"y": 539,
+			"id": "08e0bc0d-ea6c-489b-9654-3f401581a182",
+			"type": "normal",
+			"health": 15,
+			"attack": 31,
+			"speed": 1,
+			"waitTurns": 1,
+			"direction": "up"
+		}
+	],
+	"enemyBlocks": [
+		{
+			"x": 187,
+			"y": 532,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 192,
+			"y": 533,
+			"health": 40,
+			"attack": 10,
+			"lastAttack": {
+				"x": 196,
+				"y": 530
+			}
+		},
+		{
+			"x": 187,
+			"y": 521,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 193,
+			"y": 524,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": {
+				"x": 196,
+				"y": 528
+			}
+		},
+		{
+			"x": 190,
+			"y": 532,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 192,
+			"y": 531,
+			"health": 80,
+			"attack": 10,
+			"lastAttack": {
+				"x": 196,
+				"y": 528
+			}
+		},
+		{
+			"x": 192,
+			"y": 525,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 191,
+			"y": 521,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 191,
+			"y": 528,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 191,
+			"y": 525,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 187,
+			"y": 538,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 187,
+			"y": 520,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 191,
+			"y": 529,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 191,
+			"y": 531,
+			"health": 87,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 188,
+			"y": 527,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 190,
+			"y": 526,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 187,
+			"y": 523,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 217,
+			"y": 532,
+			"health": 268,
+			"attack": 40,
+			"lastAttack": null
+		},
+		{
+			"x": 193,
+			"y": 532,
+			"health": 50,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 187,
+			"y": 533,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 187,
+			"y": 524,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 188,
+			"y": 523,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 192,
+			"y": 529,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 187,
+			"y": 531,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 191,
+			"y": 526,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 189,
+			"y": 526,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 187,
+			"y": 537,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 193,
+			"y": 521,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 191,
+			"y": 522,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 193,
+			"y": 523,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 191,
+			"y": 534,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 189,
+			"y": 527,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 192,
+			"y": 521,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 193,
+			"y": 531,
+			"health": 30,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 189,
+			"y": 533,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 187,
+			"y": 519,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 189,
+			"y": 529,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 187,
+			"y": 536,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 190,
+			"y": 536,
+			"health": 81,
+			"attack": 10,
+			"lastAttack": {
+				"x": 193,
+				"y": 539
+			}
+		},
+		{
+			"x": 188,
+			"y": 529,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 191,
+			"y": 524,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 193,
+			"y": 520,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 189,
+			"y": 536,
+			"health": 69,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 190,
+			"y": 522,
+			"health": 300,
+			"attack": 40,
+			"lastAttack": null
+		},
+		{
+			"x": 191,
+			"y": 535,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 188,
+			"y": 537,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 191,
+			"y": 523,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 189,
+			"y": 534,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 193,
+			"y": 530,
+			"health": 90,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 188,
+			"y": 531,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 194,
+			"y": 524,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 187,
+			"y": 525,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 193,
+			"y": 525,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 192,
+			"y": 527,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 192,
+			"y": 535,
+			"health": 59,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 187,
+			"y": 534,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 193,
+			"y": 527,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 187,
+			"y": 528,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 187,
+			"y": 530,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 218,
+			"y": 532,
+			"health": 31,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 193,
+			"y": 529,
+			"health": 90,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 187,
+			"y": 527,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 187,
+			"y": 526,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 189,
+			"y": 523,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 189,
+			"y": 532,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 190,
+			"y": 530,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 191,
+			"y": 536,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 193,
+			"y": 526,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 191,
+			"y": 537,
+			"health": 75,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 193,
+			"y": 522,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 189,
+			"y": 525,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 193,
+			"y": 534,
+			"health": 80,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 189,
+			"y": 530,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 194,
+			"y": 522,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 188,
+			"y": 532,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 189,
+			"y": 535,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 189,
+			"y": 528,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 190,
+			"y": 534,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 191,
+			"y": 520,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 188,
+			"y": 535,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 192,
+			"y": 523,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 191,
+			"y": 533,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 188,
+			"y": 521,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 193,
+			"y": 528,
+			"health": 90,
+			"attack": 10,
+			"lastAttack": {
+				"x": 197,
+				"y": 531
+			}
+		},
+		{
+			"x": 187,
+			"y": 522,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 191,
+			"y": 532,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 189,
+			"y": 524,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 188,
+			"y": 533,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 191,
+			"y": 530,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 188,
+			"y": 525,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 187,
+			"y": 529,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 190,
+			"y": 528,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 187,
+			"y": 535,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 191,
+			"y": 527,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		},
+		{
+			"x": 189,
+			"y": 531,
+			"health": 100,
+			"attack": 10,
+			"lastAttack": null
+		}
+	],
+	"turnEndsInMs": 1782,
+	"turn": 66
+}

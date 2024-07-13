@@ -41,12 +41,12 @@ def update():
         y_coords_enemy = [block['y'] for block in enemy_blocks]
         health_enemy = [block['health'] for block in enemy_blocks]
 
-    fig = plt.figure(figsize=(13, 13))
     plt.cla()
 
     plt.scatter(x_coords_base, y_coords_base, c=health_base, cmap='coolwarm', s=100, label='Базы')
     plt.scatter(x_coords_zombie, y_coords_zombie, c='green', s=50, label='Зомби')
-    plt.scatter(x_coords_enemy, y_coords_enemy, c='red', s=75, label='Вражеские блоки')
+    if enemy_blocks:
+        plt.scatter(x_coords_enemy, y_coords_enemy, c='red', s=75, label='Вражеские блоки')
 
     for i, base in enumerate(bases):
         plt.text(base['x'] + 0.3, base['y'] + 0.3, f"HP: {base['health']}", fontsize=9)
